@@ -1,0 +1,16 @@
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.exe
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.deps.json
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.runtimeconfig.json
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.runtimeconfig.dev.json
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.dll
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\ref\aula01Ambev.dll
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\bin\Debug\net5.0\aula01Ambev.pdb
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.csproj.AssemblyReference.cache
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.AssemblyInfoInputs.cache
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.AssemblyInfo.cs
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.csproj.CoreCompileInputs.cache
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.dll
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\ref\aula01Ambev.dll
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.pdb
+C:\Users\amanda.goncalves\Documents\letscode\aula01Ambev\obj\Debug\net5.0\aula01Ambev.genruntimeconfig.cache
